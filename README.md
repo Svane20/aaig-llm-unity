@@ -1,1 +1,1 @@
-# aaig-llm-unity
+# Advanced Artificial Intelligence for Games - LLM Unity
