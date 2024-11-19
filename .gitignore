@@ -73,3 +73,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# LLMUnity
+/[Aa]ssets/LLMUnity/Resources/
+Samples/
+Tests/
+RAG/hamlet_project_gutenberg.txt
+/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp/
+/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp.meta
+/[Aa]ssets/Plugins
