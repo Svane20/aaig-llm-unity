@@ -1,0 +1,428 @@
+[
+  {
+    "characters": [
+      "Player",
+      "Old man"
+    ],
+    "connections": [
+      {
+        "from": "START",
+        "from_port": 0,
+        "to": "5422612",
+        "to_port": 0
+      },
+      {
+        "from": "5422612",
+        "from_port": 0,
+        "to": "4071009",
+        "to_port": 0
+      },
+      {
+        "from": "4071009",
+        "from_port": 0,
+        "to": "7059864",
+        "to_port": 0
+      },
+      {
+        "from": "7059864",
+        "from_port": 0,
+        "to": "6067446",
+        "to_port": 0
+      },
+      {
+        "from": "6067446",
+        "from_port": 0,
+        "to": "1532045",
+        "to_port": 0
+      },
+      {
+        "from": "1532045",
+        "from_port": 0,
+        "to": "3789434",
+        "to_port": 0
+      },
+      {
+        "from": "3789434",
+        "from_port": 0,
+        "to": "6860869",
+        "to_port": 0
+      },
+      {
+        "from": "6860869",
+        "from_port": 0,
+        "to": "3303924",
+        "to_port": 0
+      },
+      {
+        "from": "3303924",
+        "from_port": 0,
+        "to": "4053392",
+        "to_port": 0
+      },
+      {
+        "from": "4053392",
+        "from_port": 0,
+        "to": "1740071",
+        "to_port": 0
+      },
+      {
+        "from": "1740071",
+        "from_port": 0,
+        "to": "7171861",
+        "to_port": 0
+      },
+      {
+        "from": "7171861",
+        "from_port": 0,
+        "to": "4311173",
+        "to_port": 0
+      }
+    ],
+    "editor_version": "3.2.2",
+    "file_name": "EnteringVillage",
+    "languages": [
+      "ENG"
+    ],
+    "nodes": [
+      {
+        "filename": "res://Nodes/Start.tscn",
+        "next": "5422612",
+        "node_name": "START",
+        "node_type": "start",
+        "offset": [
+          -122,
+          180
+        ],
+        "title": ""
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "4071009",
+        "node_name": "5422612",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          121,
+          49.5
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Wow, I can’t believe I have lived next to this village for almost two years, and I never knew it existed!"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Old man",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "7059864",
+        "node_name": "4071009",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          589,
+          49.5
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "That’s cause you’re a shut-in melon head."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "6067446",
+        "node_name": "7059864",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          120,
+          393
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "What did you say old man?"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Old man",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "1532045",
+        "node_name": "6067446",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          592,
+          393
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "I mean, uhm, "
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Old man",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "3789434",
+        "node_name": "1532045",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          118,
+          734
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "*old person noises*"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Old man",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "6860869",
+        "node_name": "3789434",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          587,
+          734
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Darn kids, grumble grumble."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "3303924",
+        "node_name": "6860869",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          114,
+          1083
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Anyways, better go find myself a weapon. I don’t suppose you have a sword in your cave old man?"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Old man",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "4053392",
+        "node_name": "3303924",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          587,
+          1083.75
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "I live in a house, melon head!"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "1740071",
+        "node_name": "4053392",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          117,
+          1437.75
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "I guess I should look around town then."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Old man",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "7171861",
+        "node_name": "1740071",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          590,
+          1437.75
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Wait, it’s dangerous to go alone, take this!"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": true,
+        "next": "4311173",
+        "node_name": "7171861",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          354,
+          1803.75
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "The old man throws a melon at the hero."
+        },
+        "title": "Show Message"
+      },
+      {
+        "filename": "res://Nodes/Execute.tscn",
+        "node_name": "4311173",
+        "node_type": "execute",
+        "offset": [
+          377,
+          2151.75
+        ],
+        "rect_size_x": 329,
+        "rect_size_y": 89,
+        "text": "ChangeScene(12)",
+        "title": "Execute"
+      }
+    ],
+    "selected_language": "ENG",
+    "variables": {
+      "whatever": {
+        "type": 0,
+        "value": "stuff"
+      }
+    }
+  }
+]

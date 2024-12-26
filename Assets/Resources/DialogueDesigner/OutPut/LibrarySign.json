@@ -1,0 +1,93 @@
+[
+  {
+    "characters": [
+      "Player"
+    ],
+    "connections": [
+      {
+        "from": "START",
+        "from_port": 0,
+        "to": "1726214",
+        "to_port": 0
+      },
+      {
+        "from": "1726214",
+        "from_port": 0,
+        "to": "7516828",
+        "to_port": 0
+      }
+    ],
+    "editor_version": "3.2.2",
+    "file_name": "LibrarySign",
+    "languages": [
+      "ENG"
+    ],
+    "nodes": [
+      {
+        "filename": "res://Nodes/Start.tscn",
+        "next": "1726214",
+        "node_name": "START",
+        "node_type": "start",
+        "offset": [
+          0,
+          0
+        ],
+        "title": ""
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "7516828",
+        "node_name": "1726214",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          254,
+          -188.5
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "A library? Maybe there is some smart people in here"
+        },
+        "title": "Show Message"
+      },
+      {
+        "filename": "res://Nodes/Set Local Variable.tscn",
+        "next": null,
+        "node_name": "7516828",
+        "node_type": "set_local_variable",
+        "offset": [
+          785,
+          74.5
+        ],
+        "operation_type": null,
+        "title": "Set Local Variable",
+        "toggle": false,
+        "value": true,
+        "var_name": "asdasda"
+      }
+    ],
+    "selected_language": "ENG",
+    "variables": {
+      "asdasda": {
+        "type": 2,
+        "value": false
+      },
+      "wtf": {
+        "type": 0,
+        "value": "stuff"
+      }
+    }
+  }
+]

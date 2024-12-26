@@ -1,0 +1,549 @@
+[
+  {
+    "characters": [
+      "Player",
+      "Mark",
+      "Jane"
+    ],
+    "connections": [
+      {
+        "from": "2816887",
+        "from_port": 0,
+        "to": "7164248",
+        "to_port": 0
+      },
+      {
+        "from": "7164248",
+        "from_port": 0,
+        "to": "8531541",
+        "to_port": 0
+      },
+      {
+        "from": "8531541",
+        "from_port": 0,
+        "to": "9113526",
+        "to_port": 0
+      },
+      {
+        "from": "START",
+        "from_port": 0,
+        "to": "5018231",
+        "to_port": 0
+      },
+      {
+        "from": "9113526",
+        "from_port": 0,
+        "to": "1054713",
+        "to_port": 0
+      },
+      {
+        "from": "9113526",
+        "from_port": 1,
+        "to": "4387167",
+        "to_port": 0
+      },
+      {
+        "from": "1054713",
+        "from_port": 0,
+        "to": "1509744",
+        "to_port": 0
+      },
+      {
+        "from": "4387167",
+        "from_port": 0,
+        "to": "3750323",
+        "to_port": 0
+      },
+      {
+        "from": "3750323",
+        "from_port": 0,
+        "to": "8757269",
+        "to_port": 0
+      },
+      {
+        "from": "8757269",
+        "from_port": 0,
+        "to": "9600237",
+        "to_port": 0
+      },
+      {
+        "from": "1509744",
+        "from_port": 0,
+        "to": "8757269",
+        "to_port": 0
+      },
+      {
+        "from": "5018231",
+        "from_port": 0,
+        "to": "2672192",
+        "to_port": 0
+      },
+      {
+        "from": "9600237",
+        "from_port": 0,
+        "to": "1487456",
+        "to_port": 0
+      },
+      {
+        "from": "2672192",
+        "from_port": 0,
+        "to": "8119912",
+        "to_port": 0
+      },
+      {
+        "from": "5018231",
+        "from_port": 1,
+        "to": "6264714",
+        "to_port": 0
+      },
+      {
+        "from": "6264714",
+        "from_port": 0,
+        "to": "2816887",
+        "to_port": 0
+      }
+    ],
+    "editor_version": "3.2.2",
+    "file_name": "Dialogue_Mark_2.1-copy",
+    "languages": [
+      "ENG"
+    ],
+    "nodes": [
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "3750323",
+        "node_name": "4387167",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          2540,
+          180
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "I'm still not impressed... You'll have to do more than that.",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Mark",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "8757269",
+        "node_name": "3750323",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          3100,
+          220
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Oh... I see. ",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "filename": "res://Nodes/Set Local Variable.tscn",
+        "next": null,
+        "node_name": "1487456",
+        "node_type": "set_local_variable",
+        "offset": [
+          4680,
+          -20
+        ],
+        "operation_type": null,
+        "title": "Set Local Variable",
+        "toggle": false,
+        "value": true,
+        "var_name": "already_met"
+      },
+      {
+        "filename": "res://Nodes/Wait.tscn",
+        "next": "9600237",
+        "node_name": "8757269",
+        "node_type": "wait",
+        "offset": [
+          3660,
+          20
+        ],
+        "time": 0.5,
+        "title": "Wait"
+      },
+      {
+        "character": [
+          "Mark",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "1487456",
+        "node_name": "9600237",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          3960,
+          -60
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "You should talk to Jane and Sam. They have more complex dialogues.",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "branches": {
+          "False": "6264714",
+          "True": "2672192"
+        },
+        "filename": "res://Nodes/Condition Branch.tscn",
+        "node_name": "5018231",
+        "node_type": "condition_branch",
+        "offset": [
+          -440,
+          -60
+        ],
+        "text": "MSG.var(\"already_met\")",
+        "title": "Condition Branch"
+      },
+      {
+        "character": [
+          "Mark",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "8119912",
+        "node_name": "2672192",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          40,
+          320
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Hello again!",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "filename": "res://Nodes/Start.tscn",
+        "next": "5018231",
+        "node_name": "START",
+        "node_type": "start",
+        "offset": [
+          -720,
+          -40
+        ],
+        "title": ""
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "1509744",
+        "node_name": "1054713",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          2580,
+          -220
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "That's really cool!",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Mark",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "8757269",
+        "node_name": "1509744",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          3100,
+          -220
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Glad you like it!",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Jane",
+          2
+        ],
+        "choices": [
+          {
+            "condition": "",
+            "is_condition": false,
+            "next": "1054713",
+            "text": {
+              "ENG": "That's cool.",
+              "FR": "Choix",
+              "RUS": "Выбор"
+            }
+          },
+          {
+            "condition": "",
+            "is_condition": false,
+            "next": "4387167",
+            "text": {
+              "ENG": "I'm not impressed...",
+              "FR": "Choix",
+              "RUS": "Выбор"
+            }
+          }
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": true,
+        "node_name": "9113526",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          1900,
+          -100
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Yup, it can be changed with a single click within the editor!",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Mark",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "9113526",
+        "node_name": "8531541",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          1180,
+          -100
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "I speak using bubbles, but you can switch to boxes at any time. Right, Jane?",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Mark",
+          1
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "8531541",
+        "node_name": "7164248",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          620,
+          -100
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Hi! I'm Mark and this is an example of a simple dialogue.",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "filename": "res://Nodes/Comment.tscn",
+        "node_name": "8959963",
+        "node_type": "comment",
+        "offset": [
+          -1160,
+          -40
+        ],
+        "rect_size_x": 367,
+        "rect_size_y": 84,
+        "text": "Messages, choices and condition branches.",
+        "title": "SIMPLE DIALOGUE"
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": null,
+        "node_name": "8119912",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          568,
+          309
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Another dialouge"
+        },
+        "title": "Show Message"
+      },
+      {
+        "character": [
+          "Player",
+          0
+        ],
+        "expand": null,
+        "expand_size": [
+          0,
+          0
+        ],
+        "file": "",
+        "filename": "res://Nodes/Show Message.tscn",
+        "is_box": false,
+        "next": "7164248",
+        "node_name": "2816887",
+        "node_type": "show_message",
+        "object_path": "",
+        "offset": [
+          314,
+          -428
+        ],
+        "slide_camera": true,
+        "speaker_type": 0,
+        "text": {
+          "ENG": "Hello!",
+          "FR": "Ceci est un exemple de texte en français.",
+          "RUS": "Это пример текста на русском языке."
+        },
+        "title": "Show Message"
+      },
+      {
+        "filename": "res://Nodes/Execute.tscn",
+        "node_name": "6264714",
+        "node_type": "execute",
+        "offset": [
+          61.905163,
+          -70.052177
+        ],
+        "rect_size_x": 344.625366,
+        "rect_size_y": 156.708374,
+        "text": "Test(\"MeetingOldMan\", \"This also works\")",
+        "title": "Execute"
+      }
+    ],
+    "selected_language": "ENG",
+    "variables": {
+      "already_met": {
+        "type": 2,
+        "value": false
+      }
+    }
+  }
+]

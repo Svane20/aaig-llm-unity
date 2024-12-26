@@ -1,0 +1,4027 @@
+fileFormatVersion: 2
+guid: c5e340755c19c234b82741bc352f3217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4655592125841365740
+    second: bubble emotes july update-1.png_0
+  - first:
+      213: -1326303095687747597
+    second: bubble emotes july update-1.png_1
+  - first:
+      213: -8221728058480766438
+    second: bubble emotes july update-1.png_2
+  - first:
+      213: 4919602233276082188
+    second: bubble emotes july update-1.png_3
+  - first:
+      213: -4069292528014554000
+    second: bubble emotes july update-1.png_4
+  - first:
+      213: 9146318895310311127
+    second: bubble emotes july update-1.png_5
+  - first:
+      213: -5232181181314882119
+    second: bubble emotes july update-1.png_6
+  - first:
+      213: -2334432525783017701
+    second: bubble emotes july update-1.png_7
+  - first:
+      213: 5073318825739122911
+    second: bubble emotes july update-1.png_8
+  - first:
+      213: -1863528616229578312
+    second: bubble emotes july update-1.png_9
+  - first:
+      213: -3190588686825382772
+    second: bubble emotes july update-1.png_10
+  - first:
+      213: 2541297573777021230
+    second: bubble emotes july update-1.png_11
+  - first:
+      213: -1436421708471263950
+    second: bubble emotes july update-1.png_12
+  - first:
+      213: 6035818596610260850
+    second: bubble emotes july update-1.png_13
+  - first:
+      213: -9200580645483284806
+    second: bubble emotes july update-1.png_14
+  - first:
+      213: 1383721725452315821
+    second: bubble emotes july update-1.png_15
+  - first:
+      213: -3018632577796919792
+    second: bubble emotes july update-1.png_16
+  - first:
+      213: 1157565587375341286
+    second: bubble emotes july update-1.png_17
+  - first:
+      213: -6844199185326781258
+    second: bubble emotes july update-1.png_18
+  - first:
+      213: 1202807118893782818
+    second: bubble emotes july update-1.png_19
+  - first:
+      213: 6123929909886320281
+    second: bubble emotes july update-1.png_20
+  - first:
+      213: -6182310108505261209
+    second: bubble emotes july update-1.png_21
+  - first:
+      213: -7539162859718805890
+    second: bubble emotes july update-1.png_22
+  - first:
+      213: -3551497457896831753
+    second: bubble emotes july update-1.png_23
+  - first:
+      213: 6165527801237353331
+    second: bubble emotes july update-1.png_24
+  - first:
+      213: 2353680897099703168
+    second: bubble emotes july update-1.png_25
+  - first:
+      213: -5924909757258675124
+    second: bubble emotes july update-1.png_26
+  - first:
+      213: -5572882372390820212
+    second: bubble emotes july update-1.png_27
+  - first:
+      213: -8480918518789604797
+    second: bubble emotes july update-1.png_28
+  - first:
+      213: -4539748094765582290
+    second: bubble emotes july update-1.png_29
+  - first:
+      213: -1507866812030232661
+    second: bubble emotes july update-1.png_30
+  - first:
+      213: 1400683440193815288
+    second: bubble emotes july update-1.png_31
+  - first:
+      213: 3908910377410711147
+    second: bubble emotes july update-1.png_32
+  - first:
+      213: -71306100247290806
+    second: bubble emotes july update-1.png_33
+  - first:
+      213: -6563366557928434381
+    second: bubble emotes july update-1.png_34
+  - first:
+      213: 8029625857675500805
+    second: bubble emotes july update-1.png_35
+  - first:
+      213: 2882617744061152330
+    second: bubble emotes july update-1.png_36
+  - first:
+      213: 2812780963135455406
+    second: bubble emotes july update-1.png_37
+  - first:
+      213: 7253279983594479740
+    second: bubble emotes july update-1.png_38
+  - first:
+      213: 2511034844097820991
+    second: bubble emotes july update-1.png_39
+  - first:
+      213: -6755090074523295782
+    second: bubble emotes july update-1.png_40
+  - first:
+      213: 7995434491031742629
+    second: bubble emotes july update-1.png_41
+  - first:
+      213: 4401202841885695800
+    second: bubble emotes july update-1.png_42
+  - first:
+      213: 1903843789045837455
+    second: bubble emotes july update-1.png_43
+  - first:
+      213: -5710860474532317296
+    second: bubble emotes july update-1.png_44
+  - first:
+      213: 3874626316774624460
+    second: bubble emotes july update-1.png_45
+  - first:
+      213: 711879987811005500
+    second: bubble emotes july update-1.png_46
+  - first:
+      213: -2865187096043132530
+    second: bubble emotes july update-1.png_47
+  - first:
+      213: -171946362577199305
+    second: bubble emotes july update-1.png_48
+  - first:
+      213: -5493713805629780216
+    second: bubble emotes july update-1.png_49
+  - first:
+      213: -4618383071759811373
+    second: bubble emotes july update-1.png_50
+  - first:
+      213: 1483835258682312403
+    second: bubble emotes july update-1.png_51
+  - first:
+      213: 2356299825148026195
+    second: bubble emotes july update-1.png_52
+  - first:
+      213: -2048704091377621852
+    second: bubble emotes july update-1.png_53
+  - first:
+      213: 7269888654203443445
+    second: bubble emotes july update-1.png_54
+  - first:
+      213: 2077054131668754275
+    second: bubble emotes july update-1.png_55
+  - first:
+      213: -7534902423123761966
+    second: bubble emotes july update-1.png_56
+  - first:
+      213: 2761205887942454413
+    second: bubble emotes july update-1.png_57
+  - first:
+      213: -5252785380131848739
+    second: bubble emotes july update-1.png_58
+  - first:
+      213: 1633855456815266534
+    second: bubble emotes july update-1.png_59
+  - first:
+      213: 1463007272837294415
+    second: bubble emotes july update-1.png_60
+  - first:
+      213: 300794577197251787
+    second: bubble emotes july update-1.png_61
+  - first:
+      213: 805555059739657966
+    second: bubble emotes july update-1.png_62
+  - first:
+      213: 487053580239428795
+    second: bubble emotes july update-1.png_63
+  - first:
+      213: -985157997380325826
+    second: bubble emotes july update-1.png_64
+  - first:
+      213: 2967019520638715098
+    second: bubble emotes july update-1.png_65
+  - first:
+      213: -6918521229287860653
+    second: bubble emotes july update-1.png_66
+  - first:
+      213: -7146178102218201289
+    second: bubble emotes july update-1.png_67
+  - first:
+      213: -6507673793297058224
+    second: bubble emotes july update-1.png_68
+  - first:
+      213: -3377552843111504601
+    second: bubble emotes july update-1.png_69
+  - first:
+      213: 7034608018813911729
+    second: bubble emotes july update-1.png_70
+  - first:
+      213: -4371171316921279760
+    second: bubble emotes july update-1.png_71
+  - first:
+      213: -7246324332393129252
+    second: bubble emotes july update-1.png_72
+  - first:
+      213: -4044861436727418254
+    second: bubble emotes july update-1.png_73
+  - first:
+      213: -6427048171333654106
+    second: bubble emotes july update-1.png_74
+  - first:
+      213: -5413455840370076343
+    second: bubble emotes july update-1.png_75
+  - first:
+      213: -2227067538254634458
+    second: bubble emotes july update-1.png_76
+  - first:
+      213: -652537890602779181
+    second: bubble emotes july update-1.png_77
+  - first:
+      213: -4352906336875235007
+    second: bubble emotes july update-1.png_78
+  - first:
+      213: -2285497694816033612
+    second: bubble emotes july update-1.png_79
+  - first:
+      213: 5343486063583193082
+    second: bubble emotes july update-1.png_80
+  - first:
+      213: -7422498383606212857
+    second: bubble emotes july update-1.png_81
+  - first:
+      213: 4329927186161319846
+    second: bubble emotes july update-1.png_82
+  - first:
+      213: 5989039826679226159
+    second: bubble emotes july update-1.png_83
+  - first:
+      213: -8426991509780725960
+    second: bubble emotes july update-1.png_84
+  - first:
+      213: -8896415692468163623
+    second: bubble emotes july update-1.png_85
+  - first:
+      213: -1736846815163236536
+    second: bubble emotes july update-1.png_86
+  - first:
+      213: -133649761985654876
+    second: bubble emotes july update-1.png_87
+  - first:
+      213: -439408360223450242
+    second: bubble emotes july update-1.png_88
+  - first:
+      213: -3349620334559181712
+    second: bubble emotes july update-1.png_89
+  - first:
+      213: 6507155140778658902
+    second: bubble emotes july update-1.png_90
+  - first:
+      213: 3356769792583855227
+    second: bubble emotes july update-1.png_91
+  - first:
+      213: 5053591859837502330
+    second: bubble emotes july update-1.png_92
+  - first:
+      213: -4776296014485261624
+    second: bubble emotes july update-1.png_93
+  - first:
+      213: -2863635114460810274
+    second: bubble emotes july update-1.png_94
+  - first:
+      213: 678438542897614920
+    second: bubble emotes july update-1.png_95
+  - first:
+      213: -8856535357332258982
+    second: bubble emotes july update-1.png_96
+  - first:
+      213: 1063851329332029471
+    second: bubble emotes july update-1.png_97
+  - first:
+      213: 904395256940404180
+    second: bubble emotes july update-1.png_98
+  - first:
+      213: -7138384479926117691
+    second: bubble emotes july update-1.png_99
+  - first:
+      213: -8452164876059861938
+    second: bubble emotes july update-1.png_100
+  - first:
+      213: -4871268208141094437
+    second: bubble emotes july update-1.png_101
+  - first:
+      213: -7973330070865302542
+    second: bubble emotes july update-1.png_102
+  - first:
+      213: -334800395744316971
+    second: bubble emotes july update-1.png_103
+  - first:
+      213: -2474007853140017228
+    second: bubble emotes july update-1.png_104
+  - first:
+      213: -7629803792091356145
+    second: bubble emotes july update-1.png_105
+  - first:
+      213: -7705787427230613771
+    second: bubble emotes july update-1.png_106
+  - first:
+      213: 4805917924986251841
+    second: bubble emotes july update-1.png_107
+  - first:
+      213: -7229129366451361628
+    second: bubble emotes july update-1.png_108
+  - first:
+      213: 8572700541083929768
+    second: bubble emotes july update-1.png_109
+  - first:
+      213: 1794743817573400746
+    second: bubble emotes july update-1.png_110
+  - first:
+      213: 4970415750087826725
+    second: bubble emotes july update-1.png_111
+  - first:
+      213: -5290448461934149590
+    second: bubble emotes july update-1.png_112
+  - first:
+      213: 884054934496202737
+    second: bubble emotes july update-1.png_113
+  - first:
+      213: 7943397632795644840
+    second: bubble emotes july update-1.png_114
+  - first:
+      213: 8248134776572050492
+    second: bubble emotes july update-1.png_115
+  - first:
+      213: -94586612003249752
+    second: bubble emotes july update-1.png_116
+  - first:
+      213: 3264689801247505664
+    second: bubble emotes july update-1.png_117
+  - first:
+      213: -3235930028060384336
+    second: bubble emotes july update-1.png_118
+  - first:
+      213: -3512654001847824404
+    second: bubble emotes july update-1.png_119
+  - first:
+      213: -8340529764594442846
+    second: bubble emotes july update-1.png_120
+  - first:
+      213: 3914676994705299705
+    second: bubble emotes july update-1.png_121
+  - first:
+      213: 2073870334973628529
+    second: bubble emotes july update-1.png_122
+  - first:
+      213: -3126839118952880932
+    second: bubble emotes july update-1.png_123
+  - first:
+      213: 8970283092536665044
+    second: bubble emotes july update-1.png_124
+  - first:
+      213: -1844039408384805301
+    second: bubble emotes july update-1.png_125
+  - first:
+      213: -8097596019991965971
+    second: bubble emotes july update-1.png_126
+  - first:
+      213: -5079304238762205539
+    second: bubble emotes july update-1.png_127
+  - first:
+      213: -242119709604839493
+    second: bubble emotes july update-1.png_128
+  - first:
+      213: 3921112819684800749
+    second: bubble emotes july update-1.png_129
+  - first:
+      213: -5307258311991200832
+    second: bubble emotes july update-1.png_130
+  - first:
+      213: 196649773508075150
+    second: bubble emotes july update-1.png_131
+  - first:
+      213: -4332876458053740826
+    second: bubble emotes july update-1.png_132
+  - first:
+      213: -5127189351825516100
+    second: bubble emotes july update-1.png_133
+  - first:
+      213: 3707253410379950916
+    second: bubble emotes july update-1.png_134
+  - first:
+      213: 836829388931157137
+    second: bubble emotes july update-1.png_135
+  - first:
+      213: -8877239272821589862
+    second: bubble emotes july update-1.png_136
+  - first:
+      213: 2481144135595656675
+    second: bubble emotes july update-1.png_137
+  - first:
+      213: 2798313979809161415
+    second: bubble emotes july update-1.png_138
+  - first:
+      213: -467227759417892489
+    second: bubble emotes july update-1.png_139
+  - first:
+      213: 2960359129648192583
+    second: bubble emotes july update-1.png_140
+  - first:
+      213: 6367667768708583561
+    second: bubble emotes july update-1.png_141
+  - first:
+      213: -3235899252549848641
+    second: bubble emotes july update-1.png_142
+  - first:
+      213: -1289757702043110661
+    second: bubble emotes july update-1.png_143
+  - first:
+      213: -3422634450822267336
+    second: bubble emotes july update-1.png_144
+  - first:
+      213: -1444941750748824801
+    second: bubble emotes july update-1.png_145
+  - first:
+      213: -3263371139102318734
+    second: bubble emotes july update-1.png_146
+  - first:
+      213: -264015399272169872
+    second: bubble emotes july update-1.png_147
+  - first:
+      213: -6255606079416695110
+    second: bubble emotes july update-1.png_148
+  - first:
+      213: -2639509168598427964
+    second: bubble emotes july update-1.png_149
+  - first:
+      213: -3010596689557893062
+    second: bubble emotes july update-1.png_150
+  - first:
+      213: 519669708907241537
+    second: bubble emotes july update-1.png_151
+  - first:
+      213: 2266602584591643865
+    second: bubble emotes july update-1.png_152
+  - first:
+      213: -7419726340856446396
+    second: bubble emotes july update-1.png_153
+  - first:
+      213: 3146345169610516920
+    second: bubble emotes july update-1.png_154
+  - first:
+      213: -1540355184455114206
+    second: bubble emotes july update-1.png_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ae10c0a3046fb0800000000000000
+      internalID: -4655592125841365740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e70d8c56089de0800000000000000
+      internalID: -1326303095687747597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12546234ed86ed80800000000000000
+      internalID: -8221728058480766438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a3ae7a20f54440800000000000000
+      internalID: 4919602233276082188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8a8c7108f687c0800000000000000
+      internalID: -4069292528014554000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0a6573904eee70800000000000000
+      internalID: 9146318895310311127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b52e37dfee8367b0800000000000000
+      internalID: -5232181181314882119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17d5947cfd6a9fd0800000000000000
+      internalID: -2334432525783017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87b78a79c086640800000000000000
+      internalID: 5073318825739122911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b95cd0d89a6326e0800000000000000
+      internalID: -1863528616229578312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c94696e70c8b3d0800000000000000
+      internalID: -3190588686825382772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1920
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e299a81dda0844320800000000000000
+      internalID: 2541297573777021230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d19ee011ec01ce0800000000000000
+      internalID: -1436421708471263950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb6a3d80983c350800000000000000
+      internalID: 6035818596610260850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab672a256a8f05080800000000000000
+      internalID: -9200580645483284806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6399f397f33310800000000000000
+      internalID: 1383721725452315821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2ef4f9a9ab16d0800000000000000
+      internalID: -3018632577796919792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee39b7c4cf701010800000000000000
+      internalID: 1157565587375341286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc44926a158401a0800000000000000
+      internalID: -6844199185326781258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22799fea3ba31b010800000000000000
+      internalID: 1202807118893782818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef92c9ec19cf450800000000000000
+      internalID: 6123929909886320281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bbc3b26b5043aa0800000000000000
+      internalID: -6182310108505261209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7674a2c2538f5790800000000000000
+      internalID: -7539162859718805890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_23
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1760
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44b51f0eb86bec0800000000000000
+      internalID: -3551497457896831753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3733c8d6eda509550800000000000000
+      internalID: 6165527801237353331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083204a3e44f9a020800000000000000
+      internalID: 2353680897099703168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc950a7fd76cda0800000000000000
+      internalID: -5924909757258675124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86eb9a320529a2b0800000000000000
+      internalID: -5572882372390820212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a738e7a89bd4a80800000000000000
+      internalID: -8480918518789604797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28bdb119239ff0c0800000000000000
+      internalID: -4539748094765582290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7565c9f1bf21be0800000000000000
+      internalID: -1507866812030232661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2468fea2a307310800000000000000
+      internalID: 1400683440193815288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4768274d3f3630800000000000000
+      internalID: 3908910377410711147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1178ca7ba20ff0800000000000000
+      internalID: -71306100247290806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355ff7c3ec3ae4a0800000000000000
+      internalID: -6563366557928434381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_35
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1600
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1a0ebc26fe6f60800000000000000
+      internalID: 8029625857675500805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb002c09d110820800000000000000
+      internalID: 2882617744061152330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08baa1261090720800000000000000
+      internalID: 2812780963135455406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70a99e27b3d8a460800000000000000
+      internalID: 7253279983594479740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39341df2ecf8d220800000000000000
+      internalID: 2511034844097820991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf95420e591142a0800000000000000
+      internalID: -6755090074523295782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86ad6de4d75fe60800000000000000
+      internalID: 7995434491031742629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f59078aa6341d30800000000000000
+      internalID: 4401202841885695800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_43
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e29e1d6dfcb6a10800000000000000
+      internalID: 1903843789045837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bea5e7a2feb0b0800000000000000
+      internalID: -5710860474532317296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4bb04b1075c530800000000000000
+      internalID: 3874626316774624460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343f24c31b11e900800000000000000
+      internalID: 711879987811005500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_47
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e05d348fcc38d0800000000000000
+      internalID: -2865187096043132530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f5a2ab1bf1d9df0800000000000000
+      internalID: -171946362577199305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f07c5966862c3b0800000000000000
+      internalID: -5493713805629780216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3413c01538efb0800000000000000
+      internalID: -4618383071759811373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d685fa5e44a79410800000000000000
+      internalID: 1483835258682312403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d534ee43243b020800000000000000
+      internalID: 2356299825148026195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a42c8fbb7a8193e0800000000000000
+      internalID: -2048704091377621852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85076a635d3e460800000000000000
+      internalID: 7269888654203443445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_55
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f9f516abd23dc10800000000000000
+      internalID: 2077054131668754275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_56
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d46a74fa26ae6790800000000000000
+      internalID: -7534902423123761966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_57
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce6862026c15620800000000000000
+      internalID: 2761205887942454413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_58
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd30e7f68b5a17b0800000000000000
+      internalID: -5252785380131848739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_59
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabec5a1ee9ca610800000000000000
+      internalID: 1633855456815266534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a7410d55ad4410800000000000000
+      internalID: 1463007272837294415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb4340313ac2400800000000000000
+      internalID: 300794577197251787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee60dce0f08ed2b00800000000000000
+      internalID: 805555059739657966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd0c496ac52c600800000000000000
+      internalID: 487053580239428795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ea28e55040452f0800000000000000
+      internalID: -985157997380325826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40259b888fc2920800000000000000
+      internalID: 2967019520638715098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565c4d09997cff90800000000000000
+      internalID: -6918521229287860653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_67
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737eb9bc0eca3dc90800000000000000
+      internalID: -7146178102218201289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f8640a2910b5a0800000000000000
+      internalID: -6507673793297058224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_69
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7256a3095958021d0800000000000000
+      internalID: -3377552843111504601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_70
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2848fd8b2ff9160800000000000000
+      internalID: 7034608018813911729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_71
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad782c8da7653c0800000000000000
+      internalID: -4371171316921279760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda10709962ef6b90800000000000000
+      internalID: -7246324332393129252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272af2234f3cdd7c0800000000000000
+      internalID: -4044861436727418254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a965597db98ec6a0800000000000000
+      internalID: -6427048171333654106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455a7b489a8fd4b0800000000000000
+      internalID: -5413455840370076343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622678b9fddd711e0800000000000000
+      internalID: -2227067538254634458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_77
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd732cee38b1f6f0800000000000000
+      internalID: -652537890602779181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_78
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493102dfbe5793c0800000000000000
+      internalID: -4352906336875235007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_79
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b42485a4f74840e0800000000000000
+      internalID: -2285497694816033612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7602a8340e72a40800000000000000
+      internalID: 5343486063583193082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_81
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079d33db0dfdf890800000000000000
+      internalID: -7422498383606212857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb37ab5ddf61c30800000000000000
+      internalID: 4329927186161319846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_83
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd1e6bdf75d1350800000000000000
+      internalID: 5989039826679226159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7946bedf4d0b80800000000000000
+      internalID: -8426991509780725960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db693c1015998480800000000000000
+      internalID: -8896415692468163623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3de8160b75e7e0800000000000000
+      internalID: -1736846815163236536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af8784ef3e252ef0800000000000000
+      internalID: -133649761985654876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b5b89ac68e6e9f0800000000000000
+      internalID: -439408360223450242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074cc228d02c381d0800000000000000
+      internalID: -3349620334559181712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_90
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0878cf1f0e4a50800000000000000
+      internalID: 6507155140778658902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_91
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce8b76754a59e20800000000000000
+      internalID: 3356769792583855227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738b6d7507f12640800000000000000
+      internalID: 5053591859837502330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_93
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2fd7aa41037bdb0800000000000000
+      internalID: -4776296014485261624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_94
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37a3c19035248d0800000000000000
+      internalID: -2863635114460810274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_95
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840985f924c4a6900800000000000000
+      internalID: 678438542897614920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ff5853404471580800000000000000
+      internalID: -8856535357332258982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18a9a2c52f83ce00800000000000000
+      internalID: 1063851329332029471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1b7ac1be0d8c00800000000000000
+      internalID: 904395256940404180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca97d3e22d5fec90800000000000000
+      internalID: -7138384479926117691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c1b63a3d0e3ba80800000000000000
+      internalID: -8452164876059861938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_101
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b810bf57c56cb0800000000000000
+      internalID: -4871268208141094437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb22298b8a095190800000000000000
+      internalID: -7973330070865302542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_103
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1fffc50dc8a5bf0800000000000000
+      internalID: -334800395744316971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_104
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfff0627fe8aadd0800000000000000
+      internalID: -2474007853140017228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_105
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04677220ed7d1690800000000000000
+      internalID: -7629803792091356145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_106
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7f35792b8f0590800000000000000
+      internalID: -7705787427230613771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_107
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aec72d3ec02b240800000000000000
+      internalID: 4805917924986251841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8625d8429fcab90800000000000000
+      internalID: -7229129366451361628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac4b15d8b958f670800000000000000
+      internalID: 8572700541083929768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa08a4d3ef538e810800000000000000
+      internalID: 1794743817573400746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dddf15ac67af440800000000000000
+      internalID: 4970415750087826725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2047e3672d8496b0800000000000000
+      internalID: -5290448461934149590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_113
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc39c674bc44c00800000000000000
+      internalID: 884054934496202737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39674af0e9c3e60800000000000000
+      internalID: 7943397632795644840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_115
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c7f19f0e2477270800000000000000
+      internalID: 8248134776572050492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e90f3af5ffaef0800000000000000
+      internalID: -94586612003249752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_117
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db231c3128e4d20800000000000000
+      internalID: 3264689801247505664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_118
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e07fb8caa713d0800000000000000
+      internalID: -3235930028060384336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_119
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8101dbcb804fc0800000000000000
+      internalID: -3512654001847824404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad96ce7e5c704c80800000000000000
+      internalID: -8340529764594442846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f89dcf5cf9b35630800000000000000
+      internalID: 3914676994705299705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d252f41ed7cc10800000000000000
+      internalID: 2073870334973628529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_123
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a405536c3b94d0800000000000000
+      internalID: -3126839118952880932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_124
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3275132f8dc7c70800000000000000
+      internalID: 8970283092536665044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_125
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f66f9de7a866e0800000000000000
+      internalID: -1844039408384805301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_126
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee03cd925f8f9f80800000000000000
+      internalID: -8097596019991965971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_127
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e5176c4bfa289b0800000000000000
+      internalID: -5079304238762205539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_128
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbff1eb2861d3acf0800000000000000
+      internalID: -242119709604839493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_129
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8fa85a5579a6630800000000000000
+      internalID: 3921112819684800749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_130
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3768e2fa4d856b0800000000000000
+      internalID: -5307258311991200832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_131
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e1c175de3aab200800000000000000
+      internalID: 196649773508075150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6dd0661d78ed3c0800000000000000
+      internalID: -4332876458053740826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95644137098d8b0800000000000000
+      internalID: -5127189351825516100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_134
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b6d0ab55fc27330800000000000000
+      internalID: 3707253410379950916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c49d045e30d9b00800000000000000
+      internalID: 836829388931157137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98725d3ae5bdc480800000000000000
+      internalID: -8877239272821589862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_137
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e509b6127bce6220800000000000000
+      internalID: 2481144135595656675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_138
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e8801dbb95d620800000000000000
+      internalID: 2798313979809161415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_139
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e1ba04d21489f0800000000000000
+      internalID: -467227759417892489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_140
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cd34a91fe451920800000000000000
+      internalID: 2960359129648192583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_141
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980549929108e5850800000000000000
+      internalID: 6367667768708583561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_142
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb170da36c6c713d0800000000000000
+      internalID: -3235899252549848641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_143
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf27563143cd91ee0800000000000000
+      internalID: -1289757702043110661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e79b2d91c5080d0800000000000000
+      internalID: -3422634450822267336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b3c71222982fbe0800000000000000
+      internalID: -1444941750748824801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f5b833d3d26b2d0800000000000000
+      internalID: -3263371139102318734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_147
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e3627a467065cf0800000000000000
+      internalID: -264015399272169872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_148
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab608951a6f9f29a0800000000000000
+      internalID: -6255606079416695110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_149
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6dd4855649e5bd0800000000000000
+      internalID: -2639509168598427964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_150
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305fecf2463836d0800000000000000
+      internalID: -3010596689557893062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_151
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14062ffc8dc363700800000000000000
+      internalID: 519669708907241537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_152
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4319daa07947f10800000000000000
+      internalID: 2266602584591643865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_153
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44284a25436d70990800000000000000
+      internalID: -7419726340856446396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_154
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a66ff2401aab20800000000000000
+      internalID: 3146345169610516920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble emotes july update-1.png_155
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222f92fe1f8f9ae0800000000000000
+      internalID: -1540355184455114206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 728c7fb21d7e87c40a922fdd280ae7b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bubble emotes july update-1.png_0: -4655592125841365740
+      bubble emotes july update-1.png_1: -1326303095687747597
+      bubble emotes july update-1.png_10: -3190588686825382772
+      bubble emotes july update-1.png_100: -8452164876059861938
+      bubble emotes july update-1.png_101: -4871268208141094437
+      bubble emotes july update-1.png_102: -7973330070865302542
+      bubble emotes july update-1.png_103: -334800395744316971
+      bubble emotes july update-1.png_104: -2474007853140017228
+      bubble emotes july update-1.png_105: -7629803792091356145
+      bubble emotes july update-1.png_106: -7705787427230613771
+      bubble emotes july update-1.png_107: 4805917924986251841
+      bubble emotes july update-1.png_108: -7229129366451361628
+      bubble emotes july update-1.png_109: 8572700541083929768
+      bubble emotes july update-1.png_11: 2541297573777021230
+      bubble emotes july update-1.png_110: 1794743817573400746
+      bubble emotes july update-1.png_111: 4970415750087826725
+      bubble emotes july update-1.png_112: -5290448461934149590
+      bubble emotes july update-1.png_113: 884054934496202737
+      bubble emotes july update-1.png_114: 7943397632795644840
+      bubble emotes july update-1.png_115: 8248134776572050492
+      bubble emotes july update-1.png_116: -94586612003249752
+      bubble emotes july update-1.png_117: 3264689801247505664
+      bubble emotes july update-1.png_118: -3235930028060384336
+      bubble emotes july update-1.png_119: -3512654001847824404
+      bubble emotes july update-1.png_12: -1436421708471263950
+      bubble emotes july update-1.png_120: -8340529764594442846
+      bubble emotes july update-1.png_121: 3914676994705299705
+      bubble emotes july update-1.png_122: 2073870334973628529
+      bubble emotes july update-1.png_123: -3126839118952880932
+      bubble emotes july update-1.png_124: 8970283092536665044
+      bubble emotes july update-1.png_125: -1844039408384805301
+      bubble emotes july update-1.png_126: -8097596019991965971
+      bubble emotes july update-1.png_127: -5079304238762205539
+      bubble emotes july update-1.png_128: -242119709604839493
+      bubble emotes july update-1.png_129: 3921112819684800749
+      bubble emotes july update-1.png_13: 6035818596610260850
+      bubble emotes july update-1.png_130: -5307258311991200832
+      bubble emotes july update-1.png_131: 196649773508075150
+      bubble emotes july update-1.png_132: -4332876458053740826
+      bubble emotes july update-1.png_133: -5127189351825516100
+      bubble emotes july update-1.png_134: 3707253410379950916
+      bubble emotes july update-1.png_135: 836829388931157137
+      bubble emotes july update-1.png_136: -8877239272821589862
+      bubble emotes july update-1.png_137: 2481144135595656675
+      bubble emotes july update-1.png_138: 2798313979809161415
+      bubble emotes july update-1.png_139: -467227759417892489
+      bubble emotes july update-1.png_14: -9200580645483284806
+      bubble emotes july update-1.png_140: 2960359129648192583
+      bubble emotes july update-1.png_141: 6367667768708583561
+      bubble emotes july update-1.png_142: -3235899252549848641
+      bubble emotes july update-1.png_143: -1289757702043110661
+      bubble emotes july update-1.png_144: -3422634450822267336
+      bubble emotes july update-1.png_145: -1444941750748824801
+      bubble emotes july update-1.png_146: -3263371139102318734
+      bubble emotes july update-1.png_147: -264015399272169872
+      bubble emotes july update-1.png_148: -6255606079416695110
+      bubble emotes july update-1.png_149: -2639509168598427964
+      bubble emotes july update-1.png_15: 1383721725452315821
+      bubble emotes july update-1.png_150: -3010596689557893062
+      bubble emotes july update-1.png_151: 519669708907241537
+      bubble emotes july update-1.png_152: 2266602584591643865
+      bubble emotes july update-1.png_153: -7419726340856446396
+      bubble emotes july update-1.png_154: 3146345169610516920
+      bubble emotes july update-1.png_155: -1540355184455114206
+      bubble emotes july update-1.png_16: -3018632577796919792
+      bubble emotes july update-1.png_17: 1157565587375341286
+      bubble emotes july update-1.png_18: -6844199185326781258
+      bubble emotes july update-1.png_19: 1202807118893782818
+      bubble emotes july update-1.png_2: -8221728058480766438
+      bubble emotes july update-1.png_20: 6123929909886320281
+      bubble emotes july update-1.png_21: -6182310108505261209
+      bubble emotes july update-1.png_22: -7539162859718805890
+      bubble emotes july update-1.png_23: -3551497457896831753
+      bubble emotes july update-1.png_24: 6165527801237353331
+      bubble emotes july update-1.png_25: 2353680897099703168
+      bubble emotes july update-1.png_26: -5924909757258675124
+      bubble emotes july update-1.png_27: -5572882372390820212
+      bubble emotes july update-1.png_28: -8480918518789604797
+      bubble emotes july update-1.png_29: -4539748094765582290
+      bubble emotes july update-1.png_3: 4919602233276082188
+      bubble emotes july update-1.png_30: -1507866812030232661
+      bubble emotes july update-1.png_31: 1400683440193815288
+      bubble emotes july update-1.png_32: 3908910377410711147
+      bubble emotes july update-1.png_33: -71306100247290806
+      bubble emotes july update-1.png_34: -6563366557928434381
+      bubble emotes july update-1.png_35: 8029625857675500805
+      bubble emotes july update-1.png_36: 2882617744061152330
+      bubble emotes july update-1.png_37: 2812780963135455406
+      bubble emotes july update-1.png_38: 7253279983594479740
+      bubble emotes july update-1.png_39: 2511034844097820991
+      bubble emotes july update-1.png_4: -4069292528014554000
+      bubble emotes july update-1.png_40: -6755090074523295782
+      bubble emotes july update-1.png_41: 7995434491031742629
+      bubble emotes july update-1.png_42: 4401202841885695800
+      bubble emotes july update-1.png_43: 1903843789045837455
+      bubble emotes july update-1.png_44: -5710860474532317296
+      bubble emotes july update-1.png_45: 3874626316774624460
+      bubble emotes july update-1.png_46: 711879987811005500
+      bubble emotes july update-1.png_47: -2865187096043132530
+      bubble emotes july update-1.png_48: -171946362577199305
+      bubble emotes july update-1.png_49: -5493713805629780216
+      bubble emotes july update-1.png_5: 9146318895310311127
+      bubble emotes july update-1.png_50: -4618383071759811373
+      bubble emotes july update-1.png_51: 1483835258682312403
+      bubble emotes july update-1.png_52: 2356299825148026195
+      bubble emotes july update-1.png_53: -2048704091377621852
+      bubble emotes july update-1.png_54: 7269888654203443445
+      bubble emotes july update-1.png_55: 2077054131668754275
+      bubble emotes july update-1.png_56: -7534902423123761966
+      bubble emotes july update-1.png_57: 2761205887942454413
+      bubble emotes july update-1.png_58: -5252785380131848739
+      bubble emotes july update-1.png_59: 1633855456815266534
+      bubble emotes july update-1.png_6: -5232181181314882119
+      bubble emotes july update-1.png_60: 1463007272837294415
+      bubble emotes july update-1.png_61: 300794577197251787
+      bubble emotes july update-1.png_62: 805555059739657966
+      bubble emotes july update-1.png_63: 487053580239428795
+      bubble emotes july update-1.png_64: -985157997380325826
+      bubble emotes july update-1.png_65: 2967019520638715098
+      bubble emotes july update-1.png_66: -6918521229287860653
+      bubble emotes july update-1.png_67: -7146178102218201289
+      bubble emotes july update-1.png_68: -6507673793297058224
+      bubble emotes july update-1.png_69: -3377552843111504601
+      bubble emotes july update-1.png_7: -2334432525783017701
+      bubble emotes july update-1.png_70: 7034608018813911729
+      bubble emotes july update-1.png_71: -4371171316921279760
+      bubble emotes july update-1.png_72: -7246324332393129252
+      bubble emotes july update-1.png_73: -4044861436727418254
+      bubble emotes july update-1.png_74: -6427048171333654106
+      bubble emotes july update-1.png_75: -5413455840370076343
+      bubble emotes july update-1.png_76: -2227067538254634458
+      bubble emotes july update-1.png_77: -652537890602779181
+      bubble emotes july update-1.png_78: -4352906336875235007
+      bubble emotes july update-1.png_79: -2285497694816033612
+      bubble emotes july update-1.png_8: 5073318825739122911
+      bubble emotes july update-1.png_80: 5343486063583193082
+      bubble emotes july update-1.png_81: -7422498383606212857
+      bubble emotes july update-1.png_82: 4329927186161319846
+      bubble emotes july update-1.png_83: 5989039826679226159
+      bubble emotes july update-1.png_84: -8426991509780725960
+      bubble emotes july update-1.png_85: -8896415692468163623
+      bubble emotes july update-1.png_86: -1736846815163236536
+      bubble emotes july update-1.png_87: -133649761985654876
+      bubble emotes july update-1.png_88: -439408360223450242
+      bubble emotes july update-1.png_89: -3349620334559181712
+      bubble emotes july update-1.png_9: -1863528616229578312
+      bubble emotes july update-1.png_90: 6507155140778658902
+      bubble emotes july update-1.png_91: 3356769792583855227
+      bubble emotes july update-1.png_92: 5053591859837502330
+      bubble emotes july update-1.png_93: -4776296014485261624
+      bubble emotes july update-1.png_94: -2863635114460810274
+      bubble emotes july update-1.png_95: 678438542897614920
+      bubble emotes july update-1.png_96: -8856535357332258982
+      bubble emotes july update-1.png_97: 1063851329332029471
+      bubble emotes july update-1.png_98: 904395256940404180
+      bubble emotes july update-1.png_99: -7138384479926117691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
