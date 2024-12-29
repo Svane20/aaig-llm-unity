@@ -114,6 +114,7 @@ namespace LLMUnity
         /// </returns>
         public async Task<(string[], float[])> Search(string queryString, int k, string group = "")
         {
+            Debug.Log("Made it to search");
             int fetchKey = await IncrementalSearch(queryString, group);
             (string[] phrases, float[] distances, bool completed) = IncrementalFetch(fetchKey, k);
             if (!completed) IncrementalSearchComplete(fetchKey);
