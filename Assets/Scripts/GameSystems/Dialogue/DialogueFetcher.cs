@@ -36,7 +36,7 @@ namespace GameSystems.Dialogue
         {
             var dialogueArray = JsonHelper.GETJsonArray<Dialogue_Json_Classes.Dialogue>(_json.text);
             Dialogue = dialogueArray[0];
-            var filePath = CustomUtils.GETDialogueFilePathFromAsset(_json);
+            var filePath = CustomUtils.GetDialogueFilePathFromAsset(_json);
             await GETInconsistentlyDataAsync(filePath);
         }
 

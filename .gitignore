@@ -74,15 +74,17 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp
+/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp.meta
+/[Aa]ssets/[Ss]treamingAssets/Sage.zip
+/[Aa]ssets/[Ss]treamingAssets/Sage.zip.meta
+/[Aa]ssets/[Ss]treamingAssets/SageRAG.zip
+/[Aa]ssets/[Ss]treamingAssets/SageRAG.zip.meta
+
 # LLMUnity
 /[Aa]ssets/StreamingAssets.meta
 /[Aa]ssets/Plugins.meta
 
 /[Aa]ssets/Plugins/*
-
-/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp
-/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp.meta
-/[Aa]ssets/[Ss]treamingAssets/Sage.zip
-/[Aa]ssets/[Ss]treamingAssets/Sage.zip.meta
 
 /[Aa]ssets/LLMUnity/Plugins/*
