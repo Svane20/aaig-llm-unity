@@ -1564,7 +1564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2496546d1575771597fc8cbdd0d852d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  searchType: 1
+  searchType: 0
   search: {fileID: 1400265395}
   chunkingType: 3
   chunking: {fileID: 1400265394}
@@ -1590,10 +1590,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1400265384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5102d32385d84d87f98c64d376cbcc90, type: 3}
+  m_Script: {fileID: 11500000, guid: f8c6492f8c97ab9a09b0eb0f93a158da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   llmEmbedder: {fileID: 1400265392}
+  advancedOptions: 0
+  quantization: 3
+  metricKind: 1
+  connectivity: 32
+  expansionAdd: 40
+  expansionSearch: 16
 --- !u!1 &1468962044
 GameObject:
   m_ObjectHideFlags: 0
