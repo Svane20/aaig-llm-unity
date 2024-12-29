@@ -75,12 +75,14 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # LLMUnity
-/[Aa]ssets/LLMUnity/Resources/
-Samples/
-Tests/
-RAG/hamlet_project_gutenberg.txt
-/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp/
+/[Aa]ssets/StreamingAssets.meta
+/[Aa]ssets/Plugins.meta
+
+/[Aa]ssets/Plugins/*
+
+/[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp
 /[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp.meta
-/[Aa]ssets/[Ss]treamingAssets/KnowledgeBaseGame.zip
-/[Aa]ssets/[Ss]treamingAssets/KnowledgeBaseGame.zip.meta
-/[Aa]ssets/Plugins
+/[Aa]ssets/[Ss]treamingAssets/Sage.zip
+/[Aa]ssets/[Ss]treamingAssets/Sage.zip.meta
+
+/[Aa]ssets/LLMUnity/Plugins/*

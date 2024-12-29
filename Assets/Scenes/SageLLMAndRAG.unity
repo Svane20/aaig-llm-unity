@@ -205,8 +205,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: LLMUnitySamples.KnowledgeBaseGame, Assembly-CSharp
+      - m_Target: {fileID: 164588203}
+        m_TargetAssemblyTypeName: Sage, Assembly-CSharp
         m_MethodName: CancelRequests
         m_Mode: 1
         m_Arguments:
@@ -286,7 +286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerText: {fileID: 283994679}
   AIText: {fileID: 681685488}
-  SageText: {fileID: 4900000, guid: 2755b02c00af8174080a9d88118a471c, type: 3}
+  SageText: {fileID: 4900000, guid: aba96b2157fe0634c8c85cec19223cf2, type: 3}
   SageImage: {fileID: 574317512}
   llmCharacter: {fileID: 1275496423}
   rag: {fileID: 1400265393}
@@ -717,14 +717,14 @@ MonoBehaviour:
   remote: 0
   port: 13333
   numThreads: -1
-  numGPULayers: 31
+  numGPULayers: 1
   debug: 0
   parallelPrompts: -1
   dontDestroyOnLoad: 1
-  contextSize: 8192
+  contextSize: 512
   batchSize: 512
   basePrompt: 
-  model: Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf
+  model: bge-large-en-v1.5-q4_k_m.gguf
   chatTemplate: chatml
   lora: 
   loraWeights: 
@@ -735,9 +735,9 @@ MonoBehaviour:
   SSLKey: 
   SSLKeyPath: 
   minContextLength: 0
-  maxContextLength: 131072
-  embeddingsOnly: 0
-  embeddingLength: 0
+  maxContextLength: 512
+  embeddingsOnly: 1
+  embeddingLength: 1024
 --- !u!4 &758599403
 Transform:
   m_ObjectHideFlags: 0
@@ -1564,7 +1564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2496546d1575771597fc8cbdd0d852d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  searchType: 1
+  searchType: 0
   search: {fileID: 1400265395}
   chunkingType: 3
   chunking: {fileID: 1400265394}
@@ -1590,10 +1590,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1400265384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5102d32385d84d87f98c64d376cbcc90, type: 3}
+  m_Script: {fileID: 11500000, guid: f8c6492f8c97ab9a09b0eb0f93a158da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   llmEmbedder: {fileID: 1400265392}
+  advancedOptions: 0
+  quantization: 3
+  metricKind: 1
+  connectivity: 32
+  expansionAdd: 40
+  expansionSearch: 16
 --- !u!1 &1468962044
 GameObject:
   m_ObjectHideFlags: 0
@@ -1950,11 +1956,11 @@ MonoBehaviour:
   remote: 0
   port: 13333
   numThreads: -1
-  numGPULayers: 31
+  numGPULayers: 1
   debug: 0
   parallelPrompts: -1
   dontDestroyOnLoad: 1
-  contextSize: 8192
+  contextSize: 512
   batchSize: 512
   basePrompt: 
   model: Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf
