@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement; // Required for scene management
 public class NPCSwitchScene : MonoBehaviour
 {
     // Name of the scene to switch to
-    private int sceneIndexToLoad = 1;
+    private int sceneIndexToLoad = 2;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

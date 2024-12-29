@@ -12,7 +12,7 @@ public class testRag : MonoBehaviour
 {
     public RAG rag;
     public TextAsset SageText;
-    string ragPath = "SageTest.zip";
+    string ragPath = "SageRAG.zip";
 
     [Header("UI elements")]
     public InputField PlayerText;

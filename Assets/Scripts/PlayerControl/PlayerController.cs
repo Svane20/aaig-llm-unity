@@ -260,15 +260,15 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (other.CompareTag("Enter") && "OutsideHerosHome 1" == SceneManager.GetActiveScene().name)
-        {
-            LoadLevel(0);
-        }
+        //if (other.CompareTag("Enter") && "OutsideHerosHome 1" == SceneManager.GetActiveScene().name)
+        //{
+        //    LoadLevel(0);
+        //}
         
-        if (other.CompareTag("Enter") && "StartingArea" == SceneManager.GetActiveScene().name)
-        {
-            LoadLevel(7);
-        }
+        //if (other.CompareTag("Enter") && "StartingArea" == SceneManager.GetActiveScene().name)
+        //{
+        //    LoadLevel(7);
+        //}
     }
 
     private void LoadLevel(int levelIndex = 10)

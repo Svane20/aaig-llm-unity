@@ -6,6 +6,7 @@ using UnityEngine.UI;
 using LLMUnity;
 using System.Threading.Tasks;
 using System.Linq;
+using UnityEngine.SceneManagement;
 
 public class Sage : SageUI
 {
@@ -158,6 +159,11 @@ public class Sage : SageUI
         AIReplyComplete();
     }
 
+    public void ReturnToTown()
+    {
+        SceneManager.LoadScene(0); // Load the scene with build index 0
+    }
+
     void CheckLLM(LLMCaller llmCaller, bool debug)
     {
         if (llmCaller.remote || llmCaller.llm == null || llmCaller.llm.model != "")
@@ -192,6 +198,7 @@ public class Sage : SageUI
         CheckLLMs(true);
         _onValidateWarning = false;
     }
+
 }
 
 public class SageUI : MonoBehaviour
