@@ -76,7 +76,8 @@ crashlytics-build.properties
 
 # LLMUnity
 /[Aa]ssets/StreamingAssets.meta
-/[Aa]ssets/Plugins/Android/undreamai-v1.1.12-llamacpp
+/[Aa]ssets/Plugins.meta
+/[Aa]ssets/Plugins/*
 /[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp
 /[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp.meta
 /[Aa]ssets/[Ss]treamingAssets/Sage.zip
