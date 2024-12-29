@@ -38,7 +38,7 @@ namespace Utilities
 
         public static string GetDialogueFilePathFromAsset(TextAsset asset)
         {
-            var root = Path.Combine(Application.streamingAssetsPath, "DialogueDesigner", "OutPut");
+            var root = Path.Combine(Application.dataPath, "Resources", "DialogueDesigner", "Output");
             var files = Directory.GetFiles(root, "*.json", SearchOption.AllDirectories)
                 .Where(file => !file.EndsWith(".meta"));
 
