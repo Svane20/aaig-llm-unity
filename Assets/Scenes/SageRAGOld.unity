@@ -666,14 +666,14 @@ MonoBehaviour:
   remote: 0
   port: 13333
   numThreads: -1
-  numGPULayers: 0
+  numGPULayers: 31
   debug: 0
   parallelPrompts: -1
   dontDestroyOnLoad: 1
-  contextSize: 512
+  contextSize: 8192
   batchSize: 512
   basePrompt: 
-  model: bge-large-en-v1.5-q4_k_m.gguf
+  model: Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf
   chatTemplate: chatml
   lora: 
   loraWeights: 
@@ -684,9 +684,9 @@ MonoBehaviour:
   SSLKey: 
   SSLKeyPath: 
   minContextLength: 0
-  maxContextLength: 512
-  embeddingsOnly: 1
-  embeddingLength: 1024
+  maxContextLength: 131072
+  embeddingsOnly: 0
+  embeddingLength: 0
 --- !u!4 &758599403
 Transform:
   m_ObjectHideFlags: 0
@@ -1458,6 +1458,54 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   llmEmbedder: {fileID: 1400265392}
+--- !u!1 &1404096819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1404096821}
+  - component: {fileID: 1404096822}
+  m_Layer: 0
+  m_Name: Sage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1404096821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1404096819}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1404096822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1404096819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f4f7ab71ed50da47ab269dbb1993802, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rag: {fileID: 1400265393}
+  PlayerText: {fileID: 283994679}
+  AIText: {fileID: 681685488}
+  SageText: {fileID: 4900000, guid: 2755b02c00af8174080a9d88118a471c, type: 3}
 --- !u!1 &1468962044
 GameObject:
   m_ObjectHideFlags: 0
@@ -1709,54 +1757,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1 &1572959814
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1572959816}
-  - component: {fileID: 1572959815}
-  m_Layer: 0
-  m_Name: Test
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1572959815
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1572959814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2f7b39d9f50c875488e771a499323e77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rag: {fileID: 1400265393}
-  SageText: {fileID: 4900000, guid: 2755b02c00af8174080a9d88118a471c, type: 3}
-  PlayerText: {fileID: 283994679}
-  AIText: {fileID: 681685488}
---- !u!4 &1572959816
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1572959814}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 461.36966, y: 316.24658, z: -8.705896}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1614562619
 GameObject:
   m_ObjectHideFlags: 0
@@ -1839,4 +1839,4 @@ SceneRoots:
   - {fileID: 862588794}
   - {fileID: 758599403}
   - {fileID: 1400265389}
-  - {fileID: 1572959816}
+  - {fileID: 1404096821}

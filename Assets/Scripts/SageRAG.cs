@@ -16,7 +16,7 @@ public class SageRAG : MonoBehaviour
     public Text AIText;
     public TextAsset SageText;
     List<string> phrases;
-    string ragPath = "Sage.zip";
+    string ragPath = "SageRag.zip";
     Dictionary<string, Dictionary<string, string>> botQuestionAnswers = new Dictionary<string, Dictionary<string, string>>();
 
     async void Start()
@@ -82,8 +82,17 @@ public class SageRAG : MonoBehaviour
         Debug.Log($"Message: {message}");
         PlayerText.interactable = false;
         AIText.text = "...";
-        (string[] similarPhrases, float[] distances) = await rag.Search(message, 1);
-        AIText.text = similarPhrases.Length > 0 ? similarPhrases[0]: "Apologies young adventurer, I am unsure what you are asking. Can you ask again in another way?";
+        (string[] similarQuestions, float[] distances) = await rag.Search(message, 1);
+        List<string> similarAnswers = new List<string>();
+        foreach (string similarQuestion in similarQuestions) similarAnswers.Add(botQuestionAnswers["Sage"][similarQuestion]);
+        Debug.Log($"RAG retrieved {similarAnswers.Count} results for question: {message}");
+        foreach (string similarQuestion in similarAnswers)
+        {
+            Debug.Log(similarQuestion);
+        }
+
+        AIText.text = similarQuestions.Length > 0 ? similarQuestions[0]: "Apologies young adventurer, I am unsure what you are asking. Can you ask again in another way?";
+        // return similarAnswers;
     }
 
     public void SetAIText(string text)
