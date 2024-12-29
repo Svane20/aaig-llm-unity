@@ -2,100 +2,91 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
 using LLMUnity;
-using System;
 using System.Linq;
 using System.Diagnostics;
 using Debug = UnityEngine.Debug;
 using UnityEngine.UI;
 
-public class testRag : MonoBehaviour
+public class testRag : RAGUI
 {
     public RAG rag;
-    public TextAsset SageText;
-    string ragPath = "SageRAG.zip";
+    public int numRAGResults = 3;
 
-    [Header("UI elements")]
-    public InputField PlayerText;
-    public Text AIText;
+    private const string RagPath = "SageRAG.zip";
+    private readonly Dictionary<string, Dictionary<string, string>> _botQuestionAnswers = new();
+    private readonly Dictionary<string, RawImage> _botImages = new();
+    private const string CurrentBotName = "Sage";
+    private bool _onValidateWarning = true;
 
-    Dictionary<string, Dictionary<string, string>> botQuestionAnswers = new Dictionary<string, Dictionary<string, string>>();
-
-    async void Start()
+    new async void Start()
     {
-        AddListeners();
-        botQuestionAnswers["Sage"] = LoadQuestionAnswers(SageText.text);
+        base.Start();
+        InitElements();
         await InitRAG();
-        // await Game();
     }
 
-    void AddListeners()
+    void InitElements()
     {
-        PlayerText.onSubmit.AddListener(OnInputFieldSubmit);
-        PlayerText.onValueChanged.AddListener(OnValueChanged);
-    }
-
-    void OnValueChanged(string newText)
-    {
-        // Get rid of newline character added when we press enter
-        if (Input.GetKey(KeyCode.Return))
-        {
-            if (PlayerText.text.Trim() == "")
-                PlayerText.text = "";
-        }
-    }
-
-    async void OnInputFieldSubmit(string message)
-    {
-        Debug.Log($"Input message: {message}");
         PlayerText.interactable = false;
-        AIText.text = "...";
-        (string[] similarQuestions, float[] distances) = await rag.Search(message, 1, "Sage");
-        // get the answers of the similar questions
-        List<string> similarAnswers = new List<string>();
-
-        foreach (string similarQuestion in similarQuestions) similarAnswers.Add(botQuestionAnswers["Sage"][similarQuestion]);
-        Debug.Log($"RAG retrieved {similarAnswers.Count} results for question: {message}");
-        foreach (string similarAnswer in similarAnswers)
-        {
-            Debug.Log($"Similar answers for question: {similarAnswer}");
-        }
-
-        AIText.text = similarAnswers.Count > 0 ? similarAnswers[0] : "Apologies young adventurer, I am unsure what you are asking. Can you ask again in another way?";
-        PlayerText.interactable = true;
-    }
-
-    public Dictionary<string, string> LoadQuestionAnswers(string questionAnswersText)
-    {
-        Dictionary<string, string> questionAnswers = new Dictionary<string, string>();
-        foreach (string line in questionAnswersText.Split("\n"))
-        {
-            if (line == "") continue;
-            string[] lineParts = line.Split("|");
-            questionAnswers[lineParts[0]] = lineParts[1];
-        }
-        Debug.Log(questionAnswers.Count);
-        return questionAnswers;
+        _botImages["Sage"] = SageImage;
+        _botQuestionAnswers["Sage"] = LoadQuestionAnswers(SageText.text);
     }
 
     async Task InitRAG()
     {
-        bool loaded = await rag.Load(ragPath);
+        // Create the embeddings
+        await CreateEmbeddings();
+
+        // Print the number of questions embedded
+        AIReplyComplete();
+        Debug.Log($"{CurrentBotName}: {rag.Count(CurrentBotName)} phrases available");
+    }
+
+    public Dictionary<string, string> LoadQuestionAnswers(string questionAnswersText)
+    {
+        var questionAnswers = new Dictionary<string, string>();
+        foreach (var line in questionAnswersText.Split("\n"))
+        {
+            if (line == "")
+            {
+                continue;
+            }
+
+            var lineParts = line.Split("|");
+            questionAnswers[lineParts[0]] = lineParts[1];
+        }
+
+        return questionAnswers;
+    }
+
+    async Task CreateEmbeddings()
+    {
+        var loaded = await rag.Load(RagPath);
         if (!loaded)
         {
 #if UNITY_EDITOR
-            Stopwatch stopwatch = new Stopwatch();
-            // build the embeddings
-            foreach ((string botName, Dictionary<string, string> botQuestionAnswers) in botQuestionAnswers)
+            var stopwatch = new Stopwatch();
+
+            // Build the embeddings
+            foreach (var (botName, botQuestionAnswers) in _botQuestionAnswers)
             {
-                // PlayerText.text += $"Creating Embeddings for {botName} (only once)...\n";
-                List<string> questions = botQuestionAnswers.Keys.ToList();
+                PlayerText.text += $"Creating embeddings for {botName} (only once)...\n";
+                var questions = botQuestionAnswers.Keys.ToList();
+
                 stopwatch.Start();
-                foreach (string question in questions) await rag.Add(question, botName);
+
+                foreach (var question in questions)
+                {
+                    await rag.Add(question, botName);
+                }
+
                 stopwatch.Stop();
-                Debug.Log($"embedded {rag.Count()} phrases in {stopwatch.Elapsed.TotalMilliseconds / 1000f} secs");
+
+                Debug.Log($"Embedded {rag.Count()} phrases in {stopwatch.Elapsed.TotalMilliseconds / 1000f} secs");
             }
-            // store the embeddings
-            rag.Save(ragPath);
+
+            // Store the embeddings
+            rag.Save(RagPath);
 #else
             // if in play mode throw an error
             throw new System.Exception("The embeddings could not be found!");
@@ -103,38 +94,126 @@ public class testRag : MonoBehaviour
         }
     }
 
-    // Sanity test
-    async Task Game()
+    public async Task<List<string>> Retrieval(string question)
     {
-        string message = "Hello";
-        (string[] similarQuestions, float[] distances) = await rag.Search(message, 1, "Sage");
-        // get the answers of the similar questions
-        List<string> similarAnswers = new List<string>();
+        // Find similar questions for the current bot using the RAG
+        var (similarQuestions, _) = await rag.Search(question, numRAGResults, CurrentBotName);
 
-        foreach (string similarQuestion in similarQuestions) similarAnswers.Add(botQuestionAnswers["Sage"][similarQuestion]);
-        Debug.Log($"RAG retrieved {similarAnswers.Count} results for question: {message}");
+        // Get the answers of the similar questions
+        var similarAnswers = similarQuestions
+            .Select(similarQuestion => _botQuestionAnswers[CurrentBotName][similarQuestion]).ToList();
 
-        foreach (string similarAnswer in similarAnswers)
+        return similarAnswers;
+    }
+
+    protected async override void OnInputFieldSubmit(string question)
+    {
+        PlayerText.interactable = false;
+        SetAIText("...");
+
+        // Get the similar answers
+        var similarAnswers = await Retrieval(question);
+
+        // Set the text of the AI
+        var text = similarAnswers.Count > 0
+            ? similarAnswers[0]
+            : "Apologies young adventurer, I am unsure what you are asking. Can you ask again in another way?";
+        SetAIText(text);
+
+        // Reset the input field
+        AIReplyComplete();
+    }
+
+    void SetAIText(string text)
+    {
+        AIText.text = text;
+    }
+
+    void AIReplyComplete()
+    {
+        PlayerText.interactable = true;
+        PlayerText.Select();
+        PlayerText.text = "";
+    }
+    
+    public void CancelRequests()
+    {
+        AIReplyComplete();
+    }
+
+    void CheckLLM(LLMCaller llmCaller, bool debug)
+    {
+        if (llmCaller.remote || llmCaller.llm == null || llmCaller.llm.model != "")
         {
-            Debug.Log($"Similar answers for question: {similarAnswer}");
+            return;
         }
 
-        //foreach (string similarQuestion in similarQuestions)
-        //{
-        //    Debug.Log(similarQuestion);
-        //}
+        var error = $"Please select a llm model in the {llmCaller.llm.gameObject.name} GameObject!";
+        if (debug)
+        {
+            Debug.LogWarning(error);
+        }
+        else
+        {
+            throw new System.Exception(error);
+        }
+    }
 
-        //if (similarPhrases.Length > 0)
-        //{
-        //    foreach(var phrase in similarPhrases)
-        //    {
-        //        Debug.Log($"Response: {phrase}");
-        //    }
-        //    // Debug.Log($"Response: {questionAnswers[similarPhrases[0]]}");
-        //}
-        //else
-        //{
-        //    Debug.Log("Found no matching phrases.");
-        //}
+    void CheckLLMs(bool debug)
+    {
+        CheckLLM(rag.search.llmEmbedder, debug);
+    }
+
+    void OnValidate()
+    {
+        if (!_onValidateWarning)
+        {
+            return;
+        }
+
+        CheckLLMs(true);
+        _onValidateWarning = false;
+    }
+}
+
+public class RAGUI : MonoBehaviour
+{
+    [Header("UI elements")] 
+    public InputField PlayerText;
+    public Text AIText;
+
+    [Header("Bot texts")] 
+    public TextAsset SageText;
+
+    [Header("Bot images")] 
+    public RawImage SageImage;
+
+    protected void Start()
+    {
+        AddListeners();
+    }
+
+    void OnValueChanged(string newText)
+    {
+        // Get rid of newline character added when we press enter
+        if (!Input.GetKey(KeyCode.Return))
+        {
+            return;
+        }
+
+        if (PlayerText.text.Trim() == "")
+        {
+            PlayerText.text = "";
+        }
+    }
+
+    protected virtual void AddListeners()
+    {
+        PlayerText.onSubmit.AddListener(OnInputFieldSubmit);
+        PlayerText.onValueChanged.AddListener(OnValueChanged);
+    }
+
+    protected virtual void OnInputFieldSubmit(string question)
+    {
     }
 }
