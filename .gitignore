@@ -75,6 +75,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # LLMUnity
+/[Aa]ssets/StreamingAssets.meta
+/[Aa]ssets/Plugins/*
 /[Aa]ssets/LLMUnity/Plugins/*
 /[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp
 /[Aa]ssets/[Ss]treamingAssets/undreamai-v1.1.12-llamacpp.meta
