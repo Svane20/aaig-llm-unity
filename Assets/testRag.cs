@@ -10,7 +10,7 @@ using UnityEngine.UI;
 public class testRag : RAGUI
 {
     public RAG rag;
-    public int numRAGResults = 3;
+    public int numRAGResults = 1;
 
     private const string RagPath = "SageRAG.zip";
     private readonly Dictionary<string, Dictionary<string, string>> _botQuestionAnswers = new();
@@ -115,9 +115,18 @@ public class testRag : RAGUI
         var similarAnswers = await Retrieval(question);
 
         // Set the text of the AI
-        var text = similarAnswers.Count > 0
-            ? similarAnswers[0]
-            : "Apologies young adventurer, I am unsure what you are asking. Can you ask again in another way?";
+        var text = "";
+        if (similarAnswers.Count > 0)
+        {
+            if (similarAnswers[0] != "Response")
+            {
+                text = similarAnswers[0];
+            }
+            else
+            {
+                text = "Apologies young adventurer, I am unsure what you are asking. Can you ask again in another way?";
+            }
+        }
         SetAIText(text);
 
         // Reset the input field

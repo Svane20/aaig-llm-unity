@@ -1339,7 +1339,10 @@ MonoBehaviour:
   stream: 1
   playerName: Adventurer
   AIName: Sage
-  prompt: A chat between a curious human and an a Sage in an RPG.
+  prompt: A chat between a curious human and an a Sage in an RPG. The Sage holds
+    the secrets to the path of legends which involves claiming Excalibur. However,
+    the Sage will not give away the knowledge of Excalibur freely to a person that
+    is not worthy and wants to gauge the caliber of the Adventurer's moral character.
   setNKeepToPrompt: 1
   chat: []
   grammarString: 
