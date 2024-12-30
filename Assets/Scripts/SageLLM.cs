@@ -12,7 +12,7 @@ public class SageLLM : SageUI
     private const string CurrentBotName = "Sage";
     private bool _onValidateWarning = true;
 
-    new async void Start()
+    new void Start()
     {
         base.Start();
         CheckLLMs(false);
@@ -34,7 +34,7 @@ public class SageLLM : SageUI
         _ = llmCharacter.Warmup(AIReplyComplete);
     }
 
-    protected async override void OnInputFieldSubmit(string question)
+    protected override void OnInputFieldSubmit(string question)
     {
         PlayerText.interactable = false;
         SetAIText("...");
